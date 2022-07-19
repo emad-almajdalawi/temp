@@ -3,3 +3,5 @@
 # stage without commiting
 
 #  rest commit (undo commit)
+
+# edit commit (amend)
