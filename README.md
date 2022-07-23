@@ -30,6 +30,6 @@ This repo is for practicing
 | Ubuntu | None |
 | Setup device | Initiate cloned conda |
 | GIT | None|
-| Python |  |
-| Anaconda |  |
+| Python | detect loop in  a Linked-List |
+| Anaconda | import team's environment |
 | Advanced Python Packages |  |
